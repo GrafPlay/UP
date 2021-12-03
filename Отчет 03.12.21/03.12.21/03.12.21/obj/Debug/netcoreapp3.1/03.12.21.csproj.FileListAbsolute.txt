@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.exe
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.deps.json
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.runtimeconfig.json
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.runtimeconfig.dev.json
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\bin\Debug\netcoreapp3.1\03.12.21.pdb
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.AssemblyInfo.cs
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.pdb
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\03.12.21\03.12.21\obj\Debug\netcoreapp3.1\03.12.21.genruntimeconfig.cache
