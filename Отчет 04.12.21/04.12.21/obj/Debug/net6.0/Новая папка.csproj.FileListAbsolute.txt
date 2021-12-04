@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\Новая папка.exe
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\Новая папка.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\ref\Новая папка.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\ref\Новая папка.dll
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\User\Documents\Шишкин Д.А УП\GehevGehev\Новая папка\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
